@@ -1,4 +1,4 @@
-#!/home/omkar/Documents/Project/discom/discom-env/bin/python3
+#!/home/ashwini/Documents/Project/discom/discom-env/bin/python3
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 
